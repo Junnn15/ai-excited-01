@@ -1,5 +1,8 @@
 // "The Last Wave" — ai-excited-01 entry (Node 22, standard library only).
 //
+// Round 2 resubmission: the README is now written in a recorded session too,
+// so the transcripts witness every counted file with its final content.
+//
 // The picture: a lone surfer, small against a colossal wave of glowing glass and
 // fire at sunset. The wave is lit from inside — cyan and gold bioluminescence —
 // towering like a mountain over the surfer, frozen a heartbeat before it breaks.
